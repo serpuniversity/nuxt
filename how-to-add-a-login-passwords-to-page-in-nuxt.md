@@ -54,6 +54,11 @@ export default defineNuxtConfig({
 })
 ```
 
+<a href="https://serp.ly/@devin/email" target="_blank">
+<img src="https://github.com/user-attachments/assets/b640e8b7-08be-4854-85eb-784ca4dcf907" width="700px">
+</a>
+
+
 And when a visitor tries to reach the page, they will get this: 
 
 ![image](https://github.com/user-attachments/assets/b1442ee8-408f-475a-8558-f170824c70ec)
