@@ -1,10 +1,12 @@
 # How to add username/password authentication to a page in Nuxt
 
-# Click the image below to watch the video 👇
+<br><br>
 
 <a href="https://www.youtube.com/watch?v=E5fou1hbApE" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/protecting-a-route-with-password-authentication-in-nuxt.jpg" width="700px">
 </a>
+
+<br><br>
 
 nuxt-security provides middleware to easily add login/pass authentication to any route in Nuxt via [Basic Auth](https://nuxt-security.vercel.app/middleware/basic-auth).
 
